@@ -1,0 +1,6 @@
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/bin/Debug/file_concat.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/bin/Debug/file_concat.pdb
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/obj/Debug/file_concat.csprojAssemblyReference.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/obj/Debug/file_concat.csproj.CoreCompileInputs.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/obj/Debug/file_concat.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/file_concatanation/file_concat/obj/Debug/file_concat.pdb
