@@ -1,0 +1,6 @@
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/bin/Debug/photo_galary.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/bin/Debug/photo_galary.pdb
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/obj/Debug/photo_galary.csprojAssemblyReference.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/obj/Debug/photo_galary.csproj.CoreCompileInputs.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/obj/Debug/photo_galary.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/photo_galary/photo_galary/obj/Debug/photo_galary.pdb
