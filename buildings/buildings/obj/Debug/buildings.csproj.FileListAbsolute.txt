@@ -1,0 +1,6 @@
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/bin/Debug/buildings.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/bin/Debug/buildings.pdb
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.csprojAssemblyReference.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.csproj.CoreCompileInputs.cache
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.exe
+/Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.pdb
