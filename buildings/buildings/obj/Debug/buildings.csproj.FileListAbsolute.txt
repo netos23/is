@@ -4,3 +4,10 @@
 /Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.csproj.CoreCompileInputs.cache
 /Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.exe
 /Users/nikitamorozov/edu_vsu/information_systems_practice/buildings/buildings/obj/Debug/buildings.pdb
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\bin\Debug\buildings.exe
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\bin\Debug\buildings.pdb
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\obj\Debug\buildings.csproj.AssemblyReference.cache
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\obj\Debug\buildings.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\obj\Debug\buildings.csproj.CoreCompileInputs.cache
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\obj\Debug\buildings.exe
+C:\Users\nikmo\RiderProjects\is\buildings\buildings\obj\Debug\buildings.pdb

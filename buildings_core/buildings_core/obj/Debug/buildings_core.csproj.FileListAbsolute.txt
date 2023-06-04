@@ -1,0 +1,6 @@
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\bin\Debug\buildings_core.dll
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\bin\Debug\buildings_core.pdb
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\obj\Debug\buildings_core.csproj.AssemblyReference.cache
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\obj\Debug\buildings_core.csproj.CoreCompileInputs.cache
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\obj\Debug\buildings_core.dll
+C:\Users\nikmo\RiderProjects\is\buildings_core\buildings_core\obj\Debug\buildings_core.pdb
