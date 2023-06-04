@@ -39,6 +39,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Cafe.cs" />
+        <Compile Include="Court.cs" />
         <Compile Include="IBuilding.cs" />
         <Compile Include="Location.cs" />
         <Compile Include="Program.cs" />
